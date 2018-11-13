@@ -1,0 +1,39 @@
+{
+  "id": "8f55b076-6c76-42be-ab9f-b348e7c89011",
+  "name": "Create Event - Show Info",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Event \"#createEvent.eventName\" is being created on #createEvent.date at #createEvent.time duration #createEvent.duration",
+            "Event \"#createEvent.eventName\" is being created on #createEvent.date at #createEvent.time"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523642201,
+  "fallbackIntent": false,
+  "events": []
+}

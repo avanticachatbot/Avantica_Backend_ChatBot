@@ -1,0 +1,45 @@
+{
+  "id": "2dab53ef-f827-47df-a749-bb82703b32dd",
+  "name": "Create Event - Update Date",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2309a00f-259e-4472-bd22-530ecbf3e347",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Date set to $date."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523642060,
+  "fallbackIntent": false,
+  "events": []
+}

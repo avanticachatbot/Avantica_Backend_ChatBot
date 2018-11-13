@@ -1,0 +1,85 @@
+{
+  "id": "86262fdd-1d8c-43b7-948d-83eb2a54a864",
+  "name": "Create Event - Begin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "createEventBegin",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cdcbbd24-2c1e-4e2a-9adf-9bceecd1c350",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "eventName",
+          "value": "$eventName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the event called?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "66377dd4-8290-4f7f-81f5-6f33d100e5cb",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "1a8a65c1-4ad0-4378-8d35-67e008c6c727",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "23a4601b-0ba0-4b9f-9c99-4e2911db69fc",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Event \"$eventName\" is being created $date at $time.",
+            "Event \"$eventName\" is being created $date at $time for $duration."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to make any changes? Or make some invites?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524604380,
+  "fallbackIntent": false,
+  "events": []
+}

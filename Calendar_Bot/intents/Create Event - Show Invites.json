@@ -1,0 +1,40 @@
+{
+  "id": "d898dd77-57b0-4af7-a10d-6af9e2ab3bef",
+  "name": "Create Event - Show Invites",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_show_invites",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t show invites for event \"#createEvent.eventName\". Please try again",
+            "Couldn\u0027t show invites. Please try again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524516792,
+  "fallbackIntent": false,
+  "events": []
+}

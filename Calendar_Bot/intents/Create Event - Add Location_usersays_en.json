@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b4ab55fb-c434-4a7a-b9b1-296741f7666b",
+    "data": [
+      {
+        "text": "set location ",
+        "userDefined": false
+      },
+      {
+        "text": "salon de visitas",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523550078
+  },
+  {
+    "id": "52669552-0d78-4ae7-af0e-a58b2b09f656",
+    "data": [
+      {
+        "text": "Set location ",
+        "userDefined": false
+      },
+      {
+        "text": "sala de invitados",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523550078
+  },
+  {
+    "id": "4758c628-4f01-4f76-abe1-e71f5834d397",
+    "data": [
+      {
+        "text": "Location ",
+        "userDefined": false
+      },
+      {
+        "text": "sala de visitas",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523550078
+  },
+  {
+    "id": "b601ef76-701b-459f-8869-c6307642a333",
+    "data": [
+      {
+        "text": "Location ",
+        "userDefined": false
+      },
+      {
+        "text": "sala de comedor",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523550078
+  }
+]

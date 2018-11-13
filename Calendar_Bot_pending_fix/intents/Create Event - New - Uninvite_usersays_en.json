@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6e9ea55d-4c50-49a8-a676-f54426eb58b6",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695174
+  },
+  {
+    "id": "afe49b95-1662-42e0-b6a6-15ea023a8286",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695174
+  },
+  {
+    "id": "e215c03d-964f-452d-9afa-89e175f25f36",
+    "data": [
+      {
+        "text": "uninvite ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695174
+  }
+]

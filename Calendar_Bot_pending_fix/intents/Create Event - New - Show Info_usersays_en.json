@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bd7b33a6-acf3-4dda-9559-22c99566e358",
+    "data": [
+      {
+        "text": "display meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "a1918d01-b8c6-4e70-956a-8231d547772c",
+    "data": [
+      {
+        "text": "display event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "7840f714-869c-4524-98a4-752d8b8596f6",
+    "data": [
+      {
+        "text": "show information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "6e2208b8-01e2-404a-949b-ebc4481b991e",
+    "data": [
+      {
+        "text": "show info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "6a589915-d94b-4970-8c7f-6480d65967fa",
+    "data": [
+      {
+        "text": "show event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "90de2de7-f935-4cb3-b877-62fb585af01d",
+    "data": [
+      {
+        "text": "show meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "094e284f-0d48-43de-924f-e8267f2c09cb",
+    "data": [
+      {
+        "text": "show event information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  },
+  {
+    "id": "e885351a-f20f-4485-a2c2-c98e601128cf",
+    "data": [
+      {
+        "text": "show meeting information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691364
+  }
+]

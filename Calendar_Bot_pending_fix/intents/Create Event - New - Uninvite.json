@@ -1,0 +1,65 @@
+{
+  "id": "20384b73-40fd-40b6-b1bd-e382b6853168",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Uninvite",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup",
+    "CreateEvent-New-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_uninvite",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c75f5807-4208-4daa-81f6-9c08b28802ce",
+          "required": true,
+          "dataType": "@nameAvantica",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "f703b3b8-02ec-44c9-a9ad-7fbed4e16920",
+          "required": false,
+          "dataType": "@lastNameAvantica",
+          "name": "lastName",
+          "value": "$lastName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t invite $name $lastName. Please try again",
+            "Couldn\u0027t invite $name. Please try again"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524697119,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "b0fda8c1-ce9c-4f98-99cb-d3e6f7b3ba5e",
+    "data": [
+      {
+        "text": "uninvite ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523297333
+  },
+  {
+    "id": "b3df3fed-6bed-49d2-b2b5-94b455b5b5e9",
+    "data": [
+      {
+        "text": "uninvite ",
+        "userDefined": false
+      },
+      {
+        "text": "juan.guerrero@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522873197
+  },
+  {
+    "id": "3728f469-15f9-448d-bb70-9d51e155caa2",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "juan.guerrero@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522873197
+  },
+  {
+    "id": "57b9aa62-6d0f-416f-8881-7baf19d1ebcf",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "juan.guerrero@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522873197
+  },
+  {
+    "id": "1ef6b15b-32b2-4b16-b15e-3608879a28cd",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523297333
+  },
+  {
+    "id": "8a720ebb-bd32-474c-8865-8574bac5bc3d",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523297333
+  }
+]

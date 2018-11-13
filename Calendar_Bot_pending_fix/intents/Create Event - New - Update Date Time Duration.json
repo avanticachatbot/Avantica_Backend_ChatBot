@@ -1,0 +1,72 @@
+{
+  "id": "c6c843eb-0b54-43b9-b01e-7e311a4ad744",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Update Date Time Duration",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateEvent-New.CreateEvent-New-custom-2",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4a595ab-2b97-436d-b8a3-4c9eecef063a",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "24383414-9677-4c58-a66b-739cdeff9b84",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "dc5b5e7f-e7cd-4c52-9f9d-c7df5a436a6b",
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Date and time set to $date $time",
+            "Date set to $date",
+            "Time set to $time"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524693912,
+  "fallbackIntent": false,
+  "events": []
+}

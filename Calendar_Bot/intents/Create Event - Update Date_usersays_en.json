@@ -1,0 +1,56 @@
+[
+  {
+    "id": "19a4c1e5-d2a0-4fce-8f7d-b71456c49551",
+    "data": [
+      {
+        "text": "Date ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780582
+  },
+  {
+    "id": "c872b77c-cf40-4632-8fca-d00a9b32125a",
+    "data": [
+      {
+        "text": "Change date to ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780582
+  },
+  {
+    "id": "05c5c0f7-c8f2-458c-8865-c0cadfdbaaee",
+    "data": [
+      {
+        "text": "Set it ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780582
+  }
+]

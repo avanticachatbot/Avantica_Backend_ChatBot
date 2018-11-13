@@ -1,0 +1,45 @@
+{
+  "id": "252b97d0-7d37-4082-95fa-061f2f80ee1b",
+  "name": "Create Event- Rename",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ba76952-2b48-420a-9676-485e756e4051",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "eventName",
+          "value": "$eventName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Name set to $eventName"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523642085,
+  "fallbackIntent": false,
+  "events": []
+}

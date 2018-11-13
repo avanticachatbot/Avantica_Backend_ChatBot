@@ -1,0 +1,29 @@
+{
+  "id": "915cef59-6131-4588-bb61-38b3eff91174",
+  "name": "Show - Locations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_locations",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Loading locations"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524606405,
+  "fallbackIntent": false,
+  "events": []
+}

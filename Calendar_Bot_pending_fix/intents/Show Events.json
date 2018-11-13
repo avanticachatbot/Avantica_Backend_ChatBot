@@ -1,0 +1,29 @@
+{
+  "id": "44611fe5-9235-4c13-9f78-6c5f15c57f6d",
+  "name": "Show Events",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_events",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Couldn\u0027t load events. Please try again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602290,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "5469b0c4-441d-4e18-885d-d63b8389d38a",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Invite",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_invite",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "30988d0d-5f0b-4ac4-aa0d-be435db36902",
+          "required": true,
+          "dataType": "@nameAvantica",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "d7a1ddb4-e064-407d-bd70-b497bfd2adb6",
+          "required": false,
+          "dataType": "@lastNameAvantica",
+          "name": "lastName",
+          "value": "$lastName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Inviting $name $lastName",
+            "Inviting $name"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524697078,
+  "fallbackIntent": false,
+  "events": []
+}

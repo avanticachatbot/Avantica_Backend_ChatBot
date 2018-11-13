@@ -1,0 +1,38 @@
+{
+  "id": "67ff99e6-0e10-48ec-89a4-c99dc8a18e43",
+  "parentId": "41ccf7ed-af4b-4624-bfd0-28747ba49d6a",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Finish - yes",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-Finish-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateEvent-New.CreateEvent-New-custom.CreateEvent-New-Finish-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Event created"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524688329,
+  "fallbackIntent": false,
+  "events": []
+}

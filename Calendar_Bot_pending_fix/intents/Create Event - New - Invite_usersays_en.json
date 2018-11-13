@@ -1,0 +1,114 @@
+[
+  {
+    "id": "faded4a2-8c13-416b-8b36-55646273ba37",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrea",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Garro",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524687038
+  },
+  {
+    "id": "7d0e22e2-65b8-43c9-90fd-7b1c4127bbf6",
+    "data": [
+      {
+        "text": "new invite ",
+        "userDefined": false
+      },
+      {
+        "text": "Oscar",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Vega",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524687038
+  },
+  {
+    "id": "2f7c46e3-2a0c-4603-9f16-b9265405a757",
+    "data": [
+      {
+        "text": "invite ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524687038
+  },
+  {
+    "id": "92f952f4-3b8f-470c-89b5-6365dcb8aa03",
+    "data": [
+      {
+        "text": "send invite to ",
+        "userDefined": false
+      },
+      {
+        "text": "Didier",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Cerdas",
+        "alias": "lastName",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524687038
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "185216f3-1360-46d0-bcc2-29e9154283ef",
+    "data": [
+      {
+        "text": "it will last for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780059
+  },
+  {
+    "id": "b577f800-1a15-4169-ac2d-9b60c548a5e3",
+    "data": [
+      {
+        "text": "set duration to ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780059
+  },
+  {
+    "id": "0febf668-64c8-4385-8700-ccb546d0c4ac",
+    "data": [
+      {
+        "text": "duration ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522780059
+  }
+]

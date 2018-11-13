@@ -1,0 +1,54 @@
+{
+  "id": "a30dd93e-cb7f-40ea-aa88-be7359485a39",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Invite Email",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup",
+    "CreateEvent-New-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_invite",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "241572c6-8355-46ad-8ab7-7ee7b6c1c05c",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Couldn\u0027t invite $email. Please try again"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524697095,
+  "fallbackIntent": false,
+  "events": []
+}

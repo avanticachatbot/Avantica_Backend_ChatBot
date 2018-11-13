@@ -1,0 +1,66 @@
+{
+  "id": "6409722f-11f8-472f-8cef-aabcbf09439b",
+  "name": "Create Event - Invite",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_invite",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ef6fcb2c-470d-41dd-8ea9-8d463274ad2a",
+          "required": false,
+          "dataType": "@nameAvantica",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "cb540f65-8094-4d4d-872c-2866af63bce2",
+          "required": false,
+          "dataType": "@lastNameAvantica",
+          "name": "lastname",
+          "value": "$lastname",
+          "isList": false
+        },
+        {
+          "id": "3504aac5-872f-4d4f-846e-88fcffc3acf0",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t invite $name $lastname. Please try again",
+            "Couldn\u0027t invite $email. Please try again",
+            "Couldn\u0027t invite $name. Please try again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524255838,
+  "fallbackIntent": false,
+  "events": []
+}

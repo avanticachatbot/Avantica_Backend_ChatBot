@@ -1,0 +1,73 @@
+{
+  "id": "b37281ac-f795-421e-8884-11a37b3aaaad",
+  "name": "Check Available",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "calendar_user_available",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c022db17-9709-4546-a9a5-31adfe7e6452",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "b59285de-d644-4c71-b755-fa6976061a77",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "3fac2fca-8a47-423e-9402-fa472f9eb37b",
+          "required": false,
+          "dataType": "@nameAvantica",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "cd6c07b6-8ded-4f3b-ae6f-3e26a65c9b0b",
+          "required": false,
+          "dataType": "@lastNameAvantica",
+          "name": "lastname",
+          "value": "$lastname",
+          "isList": false
+        },
+        {
+          "id": "9d0fd8f3-8c95-40c9-ba3c-5a338b27ce17",
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I couldn\u0027t check if $name $lastname is available $date at $time. Please try again",
+            "I couldn\u0027t check if $email is available $date at $time. Please try again",
+            "I couldn\u0027t check if $name  is available $date at $time. Please try again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524161417,
+  "fallbackIntent": false,
+  "events": []
+}

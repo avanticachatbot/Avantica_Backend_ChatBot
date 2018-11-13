@@ -1,0 +1,319 @@
+[
+  {
+    "id": "b7db0a3c-2633-4fb3-bc37-067c6759429d",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "oscar.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "96c7eccb-89cf-4154-b14c-6ef805fc69f7",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "juan.guerrero@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "b390041d-a42e-4fe3-b24b-7db3133f263f",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "ec16647e-808a-48b1-8956-b1d1b9d08b4d",
+    "data": [
+      {
+        "text": "Invite ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524179870
+  },
+  {
+    "id": "758dd9e0-c539-4359-bc48-23fe2f48d232",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrea",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Solano",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "1036a99a-212b-400f-b7fa-1adcd6d9bfa1",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "andrea.solano@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "9f1c4c2f-f220-499f-bc9f-1ca15a5ac7db",
+    "data": [
+      {
+        "text": "invite",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oscar.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "d042b200-e35a-4498-8b7f-a7dfe4fd2c5b",
+    "data": [
+      {
+        "text": "invite ",
+        "userDefined": false
+      },
+      {
+        "text": "Didier",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Cerdas",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "5288cd3c-1893-430e-b348-62984d79ecb4",
+    "data": [
+      {
+        "text": "I wanna invite ",
+        "userDefined": false
+      },
+      {
+        "text": "guerardo.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "5c112669-99f6-4a61-93a6-bc3cdf274908",
+    "data": [
+      {
+        "text": "I wanna invite ",
+        "userDefined": false
+      },
+      {
+        "text": "Alejandra",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Rodriguez",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "a6ff8f61-a8c1-4d94-900b-bafd3c920d3a",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "Gerardo",
+        "alias": "name",
+        "meta": "@nameAvantica",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chaverri",
+        "alias": "lastname",
+        "meta": "@lastNameAvantica",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "2e77f7b1-3c1e-4264-97d7-07ea53d3c62b",
+    "data": [
+      {
+        "text": "tell  ",
+        "userDefined": false
+      },
+      {
+        "text": "oscar.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "3e2dbe78-c491-4605-965e-f5550329c423",
+    "data": [
+      {
+        "text": "invite ",
+        "userDefined": false
+      },
+      {
+        "text": "didier.cerdas@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  },
+  {
+    "id": "661e40c3-96a4-4c37-bd17-9967d7cdd5cf",
+    "data": [
+      {
+        "text": "I wanna invite ",
+        "userDefined": false
+      },
+      {
+        "text": "oscar.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524179870
+  }
+]

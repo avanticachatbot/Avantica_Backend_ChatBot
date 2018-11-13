@@ -1,0 +1,134 @@
+[
+  {
+    "id": "d0ba40f0-f5be-45b9-b379-8cad48105ceb",
+    "data": [
+      {
+        "text": "all locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "150b22c4-8f90-44fc-938c-23fe2acccd19",
+    "data": [
+      {
+        "text": "all rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "317b78ae-b740-4801-9da2-05d7ed6a9f47",
+    "data": [
+      {
+        "text": "rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "ff3b2505-6e3e-465d-8a92-b6ce215cc94d",
+    "data": [
+      {
+        "text": "show my all rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "eacbc577-e9db-48af-a03f-80052a8a26ce",
+    "data": [
+      {
+        "text": "display rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "6aa04e62-5751-48c4-a0ec-61194313a043",
+    "data": [
+      {
+        "text": "show rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "5b76f543-8822-46e0-891c-0749750dd9c7",
+    "data": [
+      {
+        "text": "display locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "38e5567d-b9e2-4f0c-8723-f628333060bc",
+    "data": [
+      {
+        "text": "may I see all locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "f7fd1f4d-c789-4426-905d-50f77253a09a",
+    "data": [
+      {
+        "text": "locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "ef4a36da-118e-4f60-9d8e-694c02c071dd",
+    "data": [
+      {
+        "text": "show me locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  },
+  {
+    "id": "8274a726-1fc9-4fdf-ae5a-f69bcd7adc07",
+    "data": [
+      {
+        "text": "show locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524251008
+  }
+]

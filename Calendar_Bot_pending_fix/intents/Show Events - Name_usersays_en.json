@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2b5b363d-ccd5-4830-aaeb-10d74c9c529f",
+    "data": [
+      {
+        "text": "show my events called ",
+        "userDefined": false
+      },
+      {
+        "text": "simple thing",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524177845
+  },
+  {
+    "id": "d4def296-1ee5-49e6-a174-b9881c32d07e",
+    "data": [
+      {
+        "text": "show any event called ",
+        "userDefined": false
+      },
+      {
+        "text": "simple gathering",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524177845
+  },
+  {
+    "id": "1ec11625-9c52-4e34-adb5-8194cb7df16b",
+    "data": [
+      {
+        "text": "show any events called ",
+        "userDefined": false
+      },
+      {
+        "text": "wellness program",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524177845
+  },
+  {
+    "id": "c8a3868c-1bcb-4751-a866-40a53164103c",
+    "data": [
+      {
+        "text": "show any events called ",
+        "userDefined": false
+      },
+      {
+        "text": "reunion",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524177845
+  }
+]

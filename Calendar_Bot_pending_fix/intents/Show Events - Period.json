@@ -1,0 +1,38 @@
+{
+  "id": "83ee8fa1-178d-4678-8f58-ae5df5a40e39",
+  "name": "Show Events - Period",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_events",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3565ac5-f911-4a42-8a15-73c4ed90931e",
+          "required": true,
+          "dataType": "@sys.date-period",
+          "name": "period",
+          "value": "$period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Couldn\u0027t load events for $period. Please try again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602686,
+  "fallbackIntent": false,
+  "events": []
+}

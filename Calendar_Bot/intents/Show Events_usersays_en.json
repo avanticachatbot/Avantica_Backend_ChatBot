@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1c519402-cc94-4224-a7e0-5e94ed78c03b",
+    "data": [
+      {
+        "text": "load all events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "7de03c4d-62fe-4576-8fe9-f790e8aa4bcb",
+    "data": [
+      {
+        "text": "events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "5073a836-8ba6-4dc2-b80d-9631438bc4bb",
+    "data": [
+      {
+        "text": "load events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "227eb32b-3037-4d33-8337-f994d0bc823d",
+    "data": [
+      {
+        "text": "show all my events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "77413dbf-5251-4277-a014-a0265fb8ca8b",
+    "data": [
+      {
+        "text": "show events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "ae908267-7814-442d-9413-23aad2acb410",
+    "data": [
+      {
+        "text": "Show me my events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524602290
+  },
+  {
+    "id": "db6c55cf-dee1-4166-8aa6-f72f0f0d6dd3",
+    "data": [
+      {
+        "text": "show all events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523289962
+  }
+]

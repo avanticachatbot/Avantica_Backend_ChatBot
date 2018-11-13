@@ -1,0 +1,38 @@
+{
+  "id": "057f9bd1-7eba-4bfc-904f-40a0e30741b2",
+  "name": "Show Events - Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_events",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18811572-6a5b-48b6-baeb-d066fabd940a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Couldn\u0027t load events \"$name\". Please try again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602679,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "8324283d-abfe-44c7-a5be-1e9a75acb2d4",
+  "name": "Create Event - Add Location",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "createEventLocation",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1a983d5c-0456-489f-8808-f3306b846f40",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t add location for event \"#createEvent.eventName\". Please try again...",
+            "Couldn\u0027t add location. Please try again..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524516900,
+  "fallbackIntent": false,
+  "events": []
+}

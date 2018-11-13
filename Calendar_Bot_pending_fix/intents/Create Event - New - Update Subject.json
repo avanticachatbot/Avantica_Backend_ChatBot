@@ -1,0 +1,53 @@
+{
+  "id": "e572d4ed-ddc9-41f2-8dbe-af6d83553370",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Update Subject",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateEvent-New.CreateEvent-New-custom",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7b37430-a651-43da-9f32-6ba6d3263b42",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "subject",
+          "value": "$subject",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "subject set to $subject"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524689298,
+  "fallbackIntent": false,
+  "events": []
+}

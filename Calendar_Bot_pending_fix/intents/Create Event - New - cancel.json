@@ -1,0 +1,54 @@
+{
+  "id": "274478de-085f-4884-a16c-1b669ece6e94",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - cancel",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateEvent-New.CreateEvent-New-cancel",
+      "affectedContexts": [
+        {
+          "name": "cancel-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "invites",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Canceling event"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524689423,
+  "fallbackIntent": false,
+  "events": []
+}

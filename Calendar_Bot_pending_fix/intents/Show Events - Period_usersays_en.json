@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e0b87bcc-5dfb-4b38-8de7-bb81b76cd59f",
+    "data": [
+      {
+        "text": "Show my events for ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521157144
+  },
+  {
+    "id": "e4cb34d5-4a07-4208-b825-a3b287a5feb2",
+    "data": [
+      {
+        "text": "show events of ",
+        "userDefined": false
+      },
+      {
+        "text": "the next week",
+        "alias": "period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521157144
+  }
+]

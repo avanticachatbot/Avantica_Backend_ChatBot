@@ -1,0 +1,55 @@
+{
+  "id": "41ccf7ed-af4b-4624-bfd0-28747ba49d6a",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Finish",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_finish",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-Finish-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A new meeting is being scheduled on #CreateEvent-New-followup.date at #CreateEvent-New-followup.time duration for #CreateEvent-New-followup.duration under subject : #CreateEvent-New-followup.subject.",
+            "A new meeting is being scheduled on #CreateEvent-New-followup.date at #CreateEvent-New-followup.time under subject : #CreateEvent-New-followup.subject"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Is everything okay?",
+            "Is this okay?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524697063,
+  "fallbackIntent": false,
+  "events": []
+}

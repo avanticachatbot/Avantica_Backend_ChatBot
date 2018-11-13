@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c7e9fda2-1aed-4d86-8b4a-e2260d58a753",
+    "data": [
+      {
+        "text": "invite ",
+        "userDefined": false
+      },
+      {
+        "text": "juan.guerrero@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695685
+  },
+  {
+    "id": "5c045176-1b8e-4d39-b0ed-5d578ed3dc05",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "oscar.vega@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695685
+  },
+  {
+    "id": "dcdb6598-fcc2-4455-b3d6-ebbb3a001cfa",
+    "data": [
+      {
+        "text": "invite ",
+        "userDefined": false
+      },
+      {
+        "text": "didier.cerdas@avantica.net",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524695685
+  }
+]

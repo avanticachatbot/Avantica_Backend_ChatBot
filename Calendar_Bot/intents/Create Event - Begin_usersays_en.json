@@ -1,0 +1,520 @@
+[
+  {
+    "id": "7ecae361-e398-4d84-b60b-49110e53f357",
+    "data": [
+      {
+        "text": "Create an event called ",
+        "userDefined": false
+      },
+      {
+        "text": "development",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "af92dc06-53e2-4af6-8c57-8854e596c462",
+    "data": [
+      {
+        "text": "make event ",
+        "userDefined": false
+      },
+      {
+        "text": "gathering",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "march 4th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "8740ebc6-95dc-4ca6-ab75-0d23cd5870e4",
+    "data": [
+      {
+        "text": "make event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "a4851694-bbaf-46c7-8b43-7e177ecbd68f",
+    "data": [
+      {
+        "text": "new event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "30da6db4-dbe0-440c-9967-2bc908e9eeaf",
+    "data": [
+      {
+        "text": "generate event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "342498bf-873e-481a-b7e5-45cb00290462",
+    "data": [
+      {
+        "text": "create event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "c55100ef-1371-49c1-9f8c-afd26aeba58c",
+    "data": [
+      {
+        "text": "Generate event ",
+        "userDefined": false
+      },
+      {
+        "text": "gathering",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "march 4th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "94ba1612-b6a6-4fb2-82a3-b03574c3d598",
+    "data": [
+      {
+        "text": "New event ",
+        "userDefined": false
+      },
+      {
+        "text": "simple reunion",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "7:00pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "4 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1523038879
+  },
+  {
+    "id": "76d5b7f8-f29f-46a3-a58f-f6d06e4b185f",
+    "data": [
+      {
+        "text": "Create new event ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday surprise party",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "9:00 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "bf4c594b-ae77-4b6a-af02-c4a6176486fe",
+    "data": [
+      {
+        "text": "Create event ",
+        "userDefined": false
+      },
+      {
+        "text": "qa reunion",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "9:00 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "6ba6cafd-76fa-4598-ac7c-ee88cfd59c32",
+    "data": [
+      {
+        "text": "Create reunion ",
+        "userDefined": false
+      },
+      {
+        "text": "qa reunion",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "9:00 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "77ef8a35-eec6-4ea4-965f-1251b4c2528f",
+    "data": [
+      {
+        "text": "New reunion ",
+        "userDefined": false
+      },
+      {
+        "text": "simple reunion",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "7:00pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "4 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "ac9f9cf9-4828-4ce8-b1ee-d80443a3399a",
+    "data": [
+      {
+        "text": "Generate reunion ",
+        "userDefined": false
+      },
+      {
+        "text": "gathering",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "march 4th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  },
+  {
+    "id": "1e1823c5-362a-49fc-9289-c57d89f97235",
+    "data": [
+      {
+        "text": "Create new reunion ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday surprise party",
+        "alias": "eventName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "  at ",
+        "userDefined": false
+      },
+      {
+        "text": "9:00 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523038879
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "4d4858b8-2cd1-4567-a553-46add97a3c5a",
+  "name": "Create Event - Finish",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_finish",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t create event #createEvent.eventName. Please try again",
+            "Couldn\u0027t create event. Please try again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524594799,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ecf38527-2951-4eec-8eee-4c2b35b3676d",
+  "parentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Uninvite Email",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-followup",
+    "CreateEvent-New-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_uninvite",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6a77cd6b-06d7-49fb-951e-64ba0e9f60ff",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Couldn\u0027t invite $email. Please try again"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524697133,
+  "fallbackIntent": false,
+  "events": []
+}

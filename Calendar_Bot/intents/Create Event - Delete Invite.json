@@ -1,0 +1,68 @@
+{
+  "id": "ed571588-beb2-44f2-8ba7-04f55f822787",
+  "name": "Create Event - Delete Invite",
+  "auto": true,
+  "contexts": [
+    "createEvent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "create_event_uninvite",
+      "affectedContexts": [
+        {
+          "name": "createEvent",
+          "parameters": {},
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "994ba380-6530-4380-9236-5e0855affab5",
+          "required": false,
+          "dataType": "@nameAvantica",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "ba3886cf-6500-4d44-bce6-0166ab89125e",
+          "required": false,
+          "dataType": "@lastNameAvantica",
+          "name": "lastname",
+          "value": "$lastname",
+          "isList": false
+        },
+        {
+          "id": "4b634161-0fb8-445b-9e23-c10f6bb6edbf",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Couldn\u0027t invite $name $lastname. Please try again",
+            "Couldn\u0027t invite $name. Please try again",
+            "Couldn\u0027t invite $lastname. Please try again",
+            "Couldn\u0027t invite $email. Please try again",
+            "Couldn\u0027t invite. Please try again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524515419,
+  "fallbackIntent": false,
+  "events": []
+}

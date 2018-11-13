@@ -1,0 +1,44 @@
+{
+  "id": "4675c906-796b-40a3-b44c-b0af254092d7",
+  "parentId": "41ccf7ed-af4b-4624-bfd0-28747ba49d6a",
+  "rootParentId": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New - Finish - no",
+  "auto": true,
+  "contexts": [
+    "CreateEvent-New-Finish-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateEvent-New.CreateEvent-New-custom.CreateEvent-New-Finish-no",
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to invite someone else or make any changes?"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524688396,
+  "fallbackIntent": false,
+  "events": []
+}

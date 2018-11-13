@@ -1,0 +1,83 @@
+{
+  "id": "e1d23bda-0161-4fc8-8cc5-b2cf48e81458",
+  "name": "Create Event - New",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "CreateEvent-New-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "CreateEvent-New-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3ebeceb9-9882-4e00-b390-b49580c276ae",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "085c9d21-efef-4fb9-addc-038b554c7a49",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3185a24f-187a-4807-aba1-d15e46ab1fef",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "subject",
+          "value": "$subject",
+          "isList": false
+        },
+        {
+          "id": "18d5f397-26d4-4660-8ee5-331abd1bfdc9",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Creating event at $date $time under subject : $subject"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to invite someone or make any changes?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524694044,
+  "fallbackIntent": false,
+  "events": []
+}

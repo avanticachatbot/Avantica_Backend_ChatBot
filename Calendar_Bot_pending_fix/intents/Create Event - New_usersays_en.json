@@ -1,0 +1,334 @@
+[
+  {
+    "id": "cdebef7b-9d61-4f8a-a98f-89a7c192ca7e",
+    "data": [
+      {
+        "text": "create event ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "1pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " subject ",
+        "userDefined": false
+      },
+      {
+        "text": "food commercial reunion",
+        "alias": "subject",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "962c60a7-9de7-4b0d-a1fb-ccc1ad4ca186",
+    "data": [
+      {
+        "text": "schedule meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "8be16b10-8906-485f-8321-a836de95482c",
+    "data": [
+      {
+        "text": "create event ",
+        "userDefined": false
+      },
+      {
+        "text": "may 1st",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "075bfe70-eb8e-4200-918b-36dd83a6d41b",
+    "data": [
+      {
+        "text": "schedule meeting ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "1b6d38e4-37d0-46dc-be92-4496433e7420",
+    "data": [
+      {
+        "text": "create event ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "b7136d9c-cd42-4024-a9db-e1ee8c1634d8",
+    "data": [
+      {
+        "text": "create event subject ",
+        "userDefined": false
+      },
+      {
+        "text": "formal reunion",
+        "alias": "subject",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "march 4th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "12pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "82df0881-f853-4256-bcca-6f6ba3e18002",
+    "data": [
+      {
+        "text": "new event ",
+        "userDefined": false
+      },
+      {
+        "text": "1pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " subject ",
+        "userDefined": false
+      },
+      {
+        "text": "qa testing",
+        "alias": "subject",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "may 1st",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "c2763262-5f3a-4ccb-a6ac-a3432d6180a3",
+    "data": [
+      {
+        "text": "create event ",
+        "userDefined": false
+      },
+      {
+        "text": "12pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " subject ",
+        "userDefined": false
+      },
+      {
+        "text": "marketing",
+        "alias": "subject",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "march 4th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "ab422e3a-e70d-4762-b59b-8aed84a58c84",
+    "data": [
+      {
+        "text": "new meeting ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 1pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "19c96fb7-df1f-4f73-8309-403a54eb8bb6",
+    "data": [
+      {
+        "text": "schedule meeting ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  },
+  {
+    "id": "498c6e5f-bc00-4096-8199-200230ef5ac7",
+    "data": [
+      {
+        "text": "create event ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 1pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " subject ",
+        "userDefined": false
+      },
+      {
+        "text": "food commercial reunion",
+        "alias": "subject",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524691962
+  }
+]

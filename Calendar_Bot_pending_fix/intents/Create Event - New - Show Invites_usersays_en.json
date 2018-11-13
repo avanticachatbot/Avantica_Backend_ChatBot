@@ -1,0 +1,50 @@
+[
+  {
+    "id": "28b94bfb-8cef-4bc0-a8ac-043c121f4dc9",
+    "data": [
+      {
+        "text": "all invites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524697213
+  },
+  {
+    "id": "e03629fd-164a-46d9-ac85-99e669336389",
+    "data": [
+      {
+        "text": "show all invites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524697213
+  },
+  {
+    "id": "ae6cba93-d94e-4b6a-a402-085341bc9d57",
+    "data": [
+      {
+        "text": "show invites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524697213
+  },
+  {
+    "id": "2fcac116-b7fe-4e0a-bc63-d55236c434f3",
+    "data": [
+      {
+        "text": "invites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524697213
+  }
+]

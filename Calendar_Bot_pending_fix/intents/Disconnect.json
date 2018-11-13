@@ -1,0 +1,29 @@
+{
+  "id": "45a954b9-1235-402f-a8e4-64693c7532bc",
+  "name": "Disconnect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "disconnect",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Disconnecting..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522097571,
+  "fallbackIntent": false,
+  "events": []
+}
