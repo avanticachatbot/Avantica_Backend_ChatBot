@@ -11,7 +11,7 @@ var credentials = {
   client_secret: 'iOGRYK9563+=orvbuiMM9?_',
   scope : 'Calendars.Read.Shared%20Calendars.ReadWrite%20User.Read%20User.ReadBasicAll',
   redirect_uri: 'https://blooming-lake-64865.herokuapp.com/signIn',
-  resouce: 'https://graph.microsoft.com/'
+  resouce: 'https://graph.microsoft.com/' 
 };
 var tokens = {};
 
